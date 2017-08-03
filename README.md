@@ -1,4 +1,4 @@
-# LoraWAN security Masters Thesis Research  of Xueying Yang
+# LoraWAN security Masters Thesis Research 
 
 # Summary
 
